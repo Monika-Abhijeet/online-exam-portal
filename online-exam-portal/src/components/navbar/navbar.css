@@ -1,0 +1,15 @@
+.navbar-container {
+  height: 6vh;
+  background-color: blue;
+  color: white;
+  align-items: center;
+}
+
+.item-list {
+  width: 100%;
+  list-style-type: none;
+}
+
+.item-list li {
+  color: white;
+}

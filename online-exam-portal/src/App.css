@@ -1,0 +1,4 @@
+.app-container {
+  height: 88vh;
+  background-image: linear-gradient(to bottom right, bisque, rgb(0, 255, 42));
+}

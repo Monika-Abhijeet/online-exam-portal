@@ -1,0 +1,6 @@
+.home-container {
+  background-image: url("../../images/landing-page.jpeg");
+  height: 82vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

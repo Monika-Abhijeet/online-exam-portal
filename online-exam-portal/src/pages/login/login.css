@@ -1,0 +1,19 @@
+.login-container {
+  height: 100%;
+  padding: 30px;
+}
+
+.login-btn {
+  margin-top: 30px;
+  display: flex;
+  align-self: center;
+}
+
+.field-container {
+  margin-top: 20px;
+}
+
+.error-info {
+  color: red;
+  font-weight: 600;
+}
